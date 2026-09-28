@@ -1,172 +1,119 @@
-<div align="center">
+<img width="100%" src="https://vercel.app"/>
 
-<img src="./profile-header.svg" alt="Ryan Kioko — Applied AI Engineer" width="100%"/>
-
-<br/>
-
-<a href="https://v0-ryankiokoportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF4FA3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Ryan-Kioko">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:ryanwendo@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `input → model → decision → impact`
-
-**Applied AI student building practical systems across NLP, Computer Vision, Clinical AI & AI Agents.**
-
-</div>
-
-<details open>
-<summary><b>▸ SYSTEM STATUS</b></summary>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  RYAN KIOKO // APPLIED AI                                   │
-├──────────────────────────────────────────────────────────────┤
-│  STATUS        ● BUILDING                                   │
-│  BASE          Nairobi → Bradford → AI Engineering          │
-│  DEGREE        BSc (Hons) Applied Artificial Intelligence   │
-│  GRADUATING    2027                                         │
-│  FOCUS         Machine Learning · AI Engineering · Agents   │
-│  CURRENT       Turning ML experiments into useful systems   │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary><b>▸ WHAT I'M BUILDING</b></summary>
-
-| Domain | Build | What it does |
-|---|---|---|
-| `FULL-STACK AI` | **Clendan** | AI financial agent workflow with policy checks, reconciliation & audit trails |
-| `CLINICAL AI` | **Parkinson's Finger-Tapping** | Signal-processing + ML pipeline for motor-signal analysis |
-| `COMPUTER VISION` | **FER Emotion Classification** | PyTorch CNN for 7-class facial emotion recognition |
-| `NLP` | **VAR Sentiment Analysis** | Transformer-based football sentiment analysis + Streamlit dashboard |
-| `NLP` | **Movie Recommendation Chatbot** | Rasa conversational recommender using intent/entity extraction |
-
-</details>
-
-<details>
-<summary><b>▸ TECH STACK</b></summary>
-
-```text
-LANGUAGES       Python · JavaScript · TypeScript · SQL
-AI / ML         PyTorch · Scikit-learn · Hugging Face · OpenCV · Rasa
-DATA            Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau
-BACKEND         FastAPI · Flask · Django · Prisma
-FRONTEND        Next.js · Tailwind · Streamlit
-INFRA           PostgreSQL · Docker · Azure · Railway · Vercel · Git
-METHODS         NLP · CNNs · Feature Engineering · Signal Processing
-```
-
-</details>
-
-<details>
-<summary><b>▸ THE JOURNEY</b></summary>
-
-```text
-2022 ───── IB Computer Science / Physics / Mathematics
-   │
-2023 ───── Airtel Networks Kenya · Data Science Intern
-   │
-2024 ───── University of Bradford · BSc Applied AI
-   │
-2024 ───── Movie Recommendation Chatbot
-   │
-2025 ───── VAR Sentiment Analysis
-   │
-2025 ───── Student Ambassador · Cohort Representative · PAL
-   │
-2026 ───── FER Emotion Classification
-   │
-2026 ───── Parkinson's Finger-Tapping & UPDRS Predictor
-   │
-2026 ───── Clendan · AI Financial Agent OS
-   │
-2027 ───── Graduation → AI Engineering
-```
-
-</details>
-
----
-
-<div align="center">
-
-### `01 / PROJECT LAB`
-
-<a href="https://github.com/Ryan-Kioko">
-<img src="https://img.shields.io/badge/AI_AGENTS-Clendan-FF4FA3?style=flat-square" />
-</a>
-<a href="https://github.com/Ryan-Kioko">
-<img src="https://img.shields.io/badge/CLINICAL_AI-Parkinson's-FF4FA3?style=flat-square" />
-</a>
-<a href="https://github.com/Ryan-Kioko">
-<img src="https://img.shields.io/badge/COMPUTER_VISION-FER2013-FF4FA3?style=flat-square" />
-</a>
-<a href="https://github.com/Ryan-Kioko">
-<img src="https://img.shields.io/badge/NLP-VAR_Sentiment-FF4FA3?style=flat-square" />
-</a>
-
-<br/><br/>
-
-<a href="https://v0-ryankiokoportfolio.vercel.app/">
-  <b>↳ explore the full interactive portfolio</b>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `02 / CURRENT MISSION`
-
-**Build AI that moves beyond demos.**
-
-I’m interested in machine learning systems that connect models, data, software and real-world workflows — with a particular interest in AI engineering and the Nairobi technology ecosystem.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://herokuapp.com+—+AI+Financial+OS;NLP+Sentiment+Pipelines+%7C+Computer+Vision;University+of+Bradford+🎓+AI+Student" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ryan-Kioko&style=flat-square&color=FF4FA3&label=PROFILE+VIEWS" alt="Profile views"/>
+<img align="right" height="260" width="380" alt="Coding GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-</div>
+## 🧑‍💻 About Me
+
+<p align="justify">
+<strong>Applied AI student at the University of Bradford</strong> (graduating 2027), building high-impact systems at the intersection of natural language processing, deep learning, and multi-agent workflows. Experienced Scrum Master focused on shipping real solutions.
+</p>
+
+- 🏗️ Co-Developing **Clendan** — an AI Financial Agent OS utilizing Claude, FastAPI, and Prisma
+- 🧠 Built **Parkinson's Finger-Tapping Predictor** — feature-engineering pipeline grading UPDRS severity
+- 📊 Built **VAR Sentiment Analysis** — scraped football tweets via BeautifulSoup with Transformers categorization
+- 👁️ Built **FER Emotion Classification** — a 7-class facial emotion recognition PyTorch CNN
+- 🤖 Built **Movie Recommendation Chatbot** — group conversational agent utilizing Rasa framework
+
+<br clear="right"/>
 
 ---
 
-<div align="center">
+## 🚀 Current Focus
 
-**Let's build something useful.**
+<p align="center">
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+</p>
 
-<a href="mailto:ryanwendo@gmail.com">ryanwendo@gmail.com</a>
-&nbsp;·&nbsp;
-<a href="https://v0-ryankiokoportfolio.vercel.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Ryan-Kioko">GitHub</a>
+---
 
-</div>👋
+## 🛠️ Tech Stack
 
-<!--
-**Ryan-Kioko/Ryan-Kioko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">AI / ML / Data</h4>
+<p align="center">
+  <img src="https://skillicons.dev"/>
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">MLOps / Infrastructure / Web</h4>
+<p align="center">
+  <img src="https://skillicons.dev"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>💼 Clendan — AI Financial OS</h3>
+      <p>Full-stack agent platform automating invoice processing and financial task reconciliation under policy enforcement with full secure audit trails.</p>
+      <p><strong>FastAPI · Claude API · Prisma · Postgres RLS · Next.js · Docker</strong></p>
+      <a href="https://v0-ryankiokoportfolio.vercel.app">
+        <img src="https://shields.io"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🧠 Parkinson's Finger-Tapping Predictor</h3>
+      <p>Clinical AI system transforming raw motor signal metrics into distinct structural features to predict Parkinson's presence and track clinical UPDRS severity tiers.</p>
+      <p><strong>Scikit-learn · Signal Processing · Feature Engineering · Python</strong></p>
+      <a href="https://v0-ryankiokoportfolio.vercel.app">
+        <img src="https://shields.io"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 All Projects
+
+<details>
+<summary><b>🏥 Healthcare & Medical AI</b></summary>
+<br/>
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🧠 Parkinson's Predictor | Signal feature-extraction grading UPDRS scale classification severity | Scikit-learn · Python | [Portfolio](https://v0-ryankiokoportfolio.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>🤖 NLP & Conversational Agents</b></summary>
+<br/>
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| ⚽ VAR Sentiment Analysis | Scraped football text and analyzed fan reactions using Transformers models | BeautifulSoup · Streamlit | [Portfolio](https://v0-ryankiokoportfolio.vercel.app) |
+| 🎬 Movie Recommender Chatbot | Rasa conversational AI agent extracting entity parameters for user matches | Rasa · Python | [Portfolio](https://v0-ryankiokoportfolio.vercel.app) |
+
+</details>
+
+<details>
+<summary><b>👁️ Deep Learning & Vision</b></summary>
+<br/>
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🎭 FER Emotion Recognition | 7-class facial emotion feature extraction utilizing data transformations | PyTorch · CNN | [Portfolio](https://v0-ryankiokoportfolio.vercel.app) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://vercel.app" alt="Ryan's GitHub Stats"/>
+  <img width="49%" src="https://herokuapp.com" alt="GitHub Streak"/>
+</p>
